@@ -1,0 +1,1 @@
+Change SERVER_URL in src/main/java/config/SkierClientConfig
