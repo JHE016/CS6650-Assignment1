@@ -8,6 +8,11 @@
         </element>
         <element id="directory" name="lib">
           <element id="file-copy" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.16.0/amqp-client-5.16.0.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.6/logback-classic-1.2.6.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.6/logback-core-1.2.6.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.11.1/commons-pool2-2.11.1.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="Assignment1/web/Web" />

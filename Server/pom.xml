@@ -28,9 +28,50 @@
       <version>2.10.1</version>
     </dependency>
 
+    <!-- RabbitMQ Java client -->
+    <dependency>
+      <groupId>com.rabbitmq</groupId>
+      <artifactId>amqp-client</artifactId>
+      <version>5.15.0</version> <!-- Make sure to use the latest stable version -->
+    </dependency>
+
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.32</version> <!-- Make sure this matches your SLF4J version -->
+    </dependency>
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-classic</artifactId>
+      <version>1.2.6</version> <!-- Make sure this matches your SLF4J version -->
+    </dependency>
+
+    <!-- Apache Commons Pool for RabbitMQ Channel Pooling -->
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-pool2</artifactId>
+      <version>2.11.1</version>
+    </dependency>
+
+    <!-- RabbitMQ Java Client -->
+    <dependency>
+      <groupId>com.rabbitmq</groupId>
+      <artifactId>amqp-client</artifactId>
+      <version>5.16.0</version>
+    </dependency>
+
+    <!-- Servlet API (needed for HttpServlet) -->
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>4.0.1</version>
+      <scope>provided</scope>
+    </dependency>
+
   </dependencies>
 
   <build>
+    <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>

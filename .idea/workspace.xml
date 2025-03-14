@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cff69993-afde-4b44-b684-41bb84225f28" name="Changes" comment="" />
+    <list default="true" id="cff69993-afde-4b44-b684-41bb84225f28" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Server/src/main/java/rmqpool/RMQChannelFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/java/rmqpool/RMQChannelPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/.idea/artifacts/Assignment1_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/.idea/artifacts/Assignment1_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Server/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/src/main/java/api/SkierServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/main/java/api/SkierServlet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -22,12 +34,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/jinhe/Desktop/CS6650-Scalable-Distributed-System/Assignment1/Server",
+    "last_opened_file_path": "C:/Users/jinhe/Desktop/CS6650-Scalable-Distributed-System/Assignment2/Server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.28225806",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -49,6 +66,9 @@
       <workItem from="1739304412519" duration="163000" />
       <workItem from="1739304617655" duration="15000" />
       <workItem from="1739304641695" duration="179000" />
+      <workItem from="1739510863986" duration="649000" />
+      <workItem from="1741297893255" duration="116000" />
+      <workItem from="1741306474803" duration="9000" />
     </task>
     <servers />
   </component>
